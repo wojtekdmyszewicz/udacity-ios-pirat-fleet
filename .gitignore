@@ -44,3 +44,4 @@ Carthage/Build
 
 # Mac
 *.DS_Store
+*.iml
